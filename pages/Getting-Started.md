@@ -59,6 +59,16 @@ Next you'll need to create a GitHub repository.
 
 * Navigate to [https://github.com](https://github.com) and click on the *Sign in* button.
 
-![GitHub Signup](/images/github_sign_in.png)
+![GitHub signin](/images/github_sign_in.png)
 
-* Once you've signed in, click on the 
+* Once you've signed in, click on your account icon in the top-right corner to access the drop down menu. 
+
+![GitHub dashboard](/images/github_dashboard.png)
+
+* Next, click on *Your repositories*.
+
+![GitHub repositories](/images/github_repositories.png)
+
+* Click on the *New* button.
+
+![GitHub new repository](/images/github_new_repo.png)
