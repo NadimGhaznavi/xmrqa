@@ -25,11 +25,15 @@ See the [Reports](/pages/Reports.html) page.
 
 ---
 
-# Quick Start Guide
+# Getting Started
 
-Refer to the [Quick Start Guide](/pages/Quick-Start-Guide.html) for everything you need to get started.
+Refer to the [Getting Started](/pages/Getting-Started.html) for everything you need to get started.
 
+---
 
+# Donations
+
+[Donations](/pages/Donations.html) are always welcome and appreciated.
 
 
 
