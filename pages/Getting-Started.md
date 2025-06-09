@@ -49,8 +49,6 @@ If you don't already have one, you can get a free GitHub account.
 
 * Navigate to [https://github.com](https://github.com) and click on the *Sign up* button.
 
-![GitHub Signup](/images/github_sign_up.png)
-
 ---
 
 ## Create a GitHub Repository
@@ -58,17 +56,9 @@ If you don't already have one, you can get a free GitHub account.
 Next you'll need to create a GitHub repository.
 
 * Navigate to [https://github.com](https://github.com) and click on the *Sign in* button.
-
-![GitHub signin](/images/github_sign_in.png)
-
 * Once you've signed in, click on your account icon in the top-right corner to access the drop down menu. 
-
-![GitHub dashboard](/images/github_dashboard.png)
-
-* Next, click on *Your repositories*.
-
-![GitHub repositories](/images/github_repositories.png)
-
-* Click on the *New* button.
+* Click on *Your repositories* menu item
+* On the *Repositories* page click on the *New* button.
+* Choose a name for your repository, e.g. *xmr*.
 
 ![GitHub new repository](/images/github_new_repo.png)
