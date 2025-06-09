@@ -21,9 +21,17 @@ This guide assumes a *minimal* (NetInst) install with only:
 
 ## Root Access
 
-Root access is required to:
-* Run the XMRig miner
+The *db4e* application does *NOT* require root access to run. However, root access is required to:
+
+* Install Pre-Requisite Linux packages
+* Install MongoDB
+* Run the XMRig miner 
+* Configure sudo for XMRig control
 * Configure *db4e* as a system service
+
+**PRO TIP:** The *best practise* is to created a dedicated Linux *db4e* account and have that account own the *db4e* code and the *GitHub Pages* repository.
+
+---
 
 ## Create a GitHub Account
 
