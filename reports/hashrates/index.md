@@ -1,11 +1,9 @@
 ---
 title: Hashrate Reports
-date: 2025-06-08
+date: 2025-06-14
 ---
 
 # Reports
-
-Reports [definition file](/conf/reports/hashrates.yml).
 
 * [Pool Hashrate - all data](/reports/hashrates/Pool-Hashrate.html)
 * [Pool Hashrate - 30 days](/reports/hashrates/Pool-Hashrate-30-Days.html)
@@ -20,4 +18,4 @@ Reports [definition file](/conf/reports/hashrates.yml).
 * [Mainchain Hashrate - 60 days](/reports/hashrates/Mainchain-Hashrate-60-Days.html)
 * [Mainchain Hashrate - 90 days](/reports/hashrates/Mainchain-Hashrate-90-Days.html)
 
-Last updated: 2025-06-08 19:14
+Last updated: 2025-06-14 19:10
